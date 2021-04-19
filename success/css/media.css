@@ -1,0 +1,106 @@
+@media only screen and (max-width:1750px) {
+	.text1 {
+    margin-top: 120px;
+}
+}
+
+@media only screen and (max-width:1600px) {
+	.text1 {
+    margin-top: 70px;
+}
+
+}
+
+@media only screen and (max-width:1600px) {
+	.text1 {
+    margin-top: 80px;
+}
+
+.text2 {
+	margin-top: 30px;
+}
+
+.operator {
+	margin-top: 30px;
+	max-width: 260px;
+}
+}
+
+@media only screen and (max-width:992px) {
+	.text1 {
+	margin-top: 80px;
+	font-size: 25px;
+}
+
+.text2 {
+	margin-top: 40px;
+	font-size: 20px;
+}
+
+.text3 {
+	font-size: 14px;
+}
+}
+
+@media only screen and (max-width:750px) {
+	.text1 {
+	margin-top: 80px;
+	font-size: 20px;
+}
+
+.text2 {
+	margin-top: 40px;
+	font-size: 20px;
+}
+
+.text3 {
+	font-size: 14px;
+}
+
+.operator {
+	margin-top: 30px;
+	max-width: 210px;
+}
+
+
+}
+
+
+@media only screen and (max-width:500px) {
+	
+
+header {
+	height: 40px;
+	background-color: #B7B7B7;
+}
+
+.text1 {
+	margin-top: 50px;
+	font-size: 20px;
+}
+
+.text1 span {
+    display: block;
+}
+
+
+.text2 {
+	margin-top: 30px;
+	font-size: 15px;
+}
+.text3 {
+	font-size: 12px;
+}
+
+.text3 {
+	font-size: 14px;
+}
+
+.operator {
+	margin-top: 30px;
+	max-width: 170px;
+}
+
+
+}
+
